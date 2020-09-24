@@ -1,3 +1,3 @@
 function Hola(){
-    alert("Hola Mundo!");
+   alert("Hey!, Hola!");
 }
